@@ -14,7 +14,7 @@ Data Science & Engineering undergraduate at MIT Manipal, building and stress-tes
 
 Python · C · C++ · SQL · JavaScript
 PyTorch · Scikit-learn · NumPy · Pandas · Matplotlib · Seaborn
-FastAPI · MySQL · Docker · Git/GitHub · Linux/Bash · Power BI
+FastAPI · MySQL · Docker · Git/GitHub · Linux/Bash · Power BI · Hadoop
 
 
 
