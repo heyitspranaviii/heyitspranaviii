@@ -1,7 +1,6 @@
 # Hi, I'm Anjali,
 
-Data Science & Engineering undergraduate at MIT Manipal, building and stress-testing full-stack ML systems, from graph-based fraud detection to deepfake forensics.
----
+Data Science & Engineering undergraduate at MIT Manipal, building and stress-testing full-stack ML systems — from graph-based fraud detection to deepfake forensics. 
 
 ## What I'm Currently Working On
 
@@ -11,18 +10,11 @@ Data Science & Engineering undergraduate at MIT Manipal, building and stress-tes
 - **ArXivLens**, a semantic discovery engine over arXiv papers using sentence-transformer embeddings, FAISS, and the Semantic Scholar API
 - Exploring compiler design and big data analytics (Apache Spark / PySpark)
 
----
-
 ## Tools & Technologies
 
 Python · C · C++ · SQL · JavaScript
 PyTorch · Scikit-learn · NumPy · Pandas · Matplotlib · Seaborn
-FastAPI · ChromaDB · MySQL · Docker · Git/GitHub · Linux/Bash · Power BI
+FastAPI · MySQL · Docker · Git/GitHub · Linux/Bash · Power BI
 
----
 
-## Reach Out
-
-📧 anjalipranav231@gmail.com
-🔗 [LinkedIn](#) 
 
