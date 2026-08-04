@@ -1,6 +1,6 @@
 # Hi, I'm Anjali,
 
-Data Science & Engineering undergraduate at MIT Manipal, building and stress-testing full-stack ML systems — from graph-based fraud detection to deepfake forensics. 
+Data Science & Engineering undergraduate at MIT Manipal, building and stress-testing full-stack ML systems.
 
 ## What I'm Currently Working On
 
