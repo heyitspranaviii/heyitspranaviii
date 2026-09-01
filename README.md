@@ -1,20 +1,25 @@
-# Hi, I'm Anjali,
+### Hi, I'm Anjali
 
 Data Science & Engineering undergraduate at MIT Manipal, building and stress-testing full-stack ML systems.
 
-## What I'm Currently Working On
+---
 
-- Interpretable & robust temporal GNNs for fraud detection on evolving graphs (DGraph-Fin, Elliptic++),benchmarking discrete-time (EvolveGCN, DySAT) and continuous-time (TGN) architectures under leakage-aware chronological splits
-- Stress-testing these models with time-respecting adversarial attacks (Nettack, Metattack, STING) and diagnosing failure modes with temporal explainers (GNNExplainer, CoDy, TemGX) in a closed feedback loop for robust fine-tuning
-- DeepFake detection using Xception + FFT-based frequency analysis with fuzzy logic for confidence scoring
-- **ArXivLens**, a semantic discovery engine over arXiv papers using sentence-transformer embeddings, FAISS, and the Semantic Scholar API
-- Exploring compiler design and big data analytics (Apache Spark / PySpark)
+**What I'm currently working on**
+- Building graph neural networks that (hopefully) don't fall apart the moment someone attacks them
+- Figuring out how large software systems stay fast and correct under pressure-distributed systems and compiler design
+- Wrangling datasets too big to fit in memory, with Apache Spark / PySpark
+- Teaching machines to read between the lines — NLP
 
-## Tools & Technologies
+---
 
-Python · C · C++ · SQL · JavaScript
-PyTorch · Scikit-learn · NumPy · Pandas · Matplotlib · Seaborn
-FastAPI · MySQL · Docker · Git/GitHub · Linux/Bash · Power BI · Hadoop
+**Tech stack**
 
+`Python` `C` `C++` `SQL` `JavaScript`
+`PyTorch` `Scikit-learn` `NumPy` `Pandas` `Matplotlib` `Seaborn`
+`FastAPI` `MySQL` `Docker` `Git` `Linux/Bash` `Power BI` `Hadoop`
 
+---
 
+**Connect**
+
+· [LinkedIn](https://www.linkedin.com/in/anjali-pranav-3721a7248/)
