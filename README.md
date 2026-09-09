@@ -7,7 +7,6 @@ Data Science & Engineering undergraduate at MIT Manipal, building and stress-tes
 **What I'm currently working on**
 - Building graph neural networks that (hopefully) don't fall apart the moment someone attacks them
 - Figuring out how large software systems stay fast and correct under pressure-distributed systems and compiler design
-- Wrangling datasets too big to fit in memory, with Apache Spark / PySpark
 
 ---
 
