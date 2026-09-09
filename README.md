@@ -13,7 +13,7 @@ currently learning: temporal gnns under attack, distributed systems, compiler de
 </p>
 
 <p align="center">
-python · c · c++ · sql · javascript · pytorch · scikit-learn · fastapi · mysql · docker · git · linux · power bi · hadoop
+python · c · c++ · sql · javascript · pytorch · scikit-learn · fastapi · mysql · docker · git/bash · linux · power bi
 </p>
 
 <p align="center">
