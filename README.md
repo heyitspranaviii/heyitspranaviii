@@ -1,23 +1,22 @@
-### Hi, I'm Anjali
+<h1 align="center">anjali ( heyitspranaviii )</h1>
 
-Data Science & Engineering undergraduate at MIT Manipal, building and stress-testing full-stack ML systems.
+<p align="center">
+data science & engineering undergrad @ mit manipal
+</p>
 
----
+<p align="center">
+building ml systems that hold up outside a notebook-adversarial robustness, inference, and the infrastructure underneath both.
+</p>
 
-**What I'm currently working on**
-- Building graph neural networks that (hopefully) don't fall apart the moment someone attacks them
-- Figuring out how large software systems stay fast and correct under pressure-distributed systems and compiler design
+<p align="center">
+currently learning: temporal gnns under attack, distributed systems, compiler design, and llm/ml inference.
+</p>
 
----
+<p align="center">
+python · c · c++ · sql · javascript · pytorch · scikit-learn · fastapi · mysql · docker · git · linux · power bi · hadoop
+</p>
 
-**Tech stack**
+<p align="center">
+<a href="https://linkedin.com/in/anjali-pranav-3721a7248/">linkedin</a>
+</p>
 
-`Python` `C` `C++` `SQL` `JavaScript`
-`PyTorch` `Scikit-learn` `NumPy` `Pandas` `Matplotlib` `Seaborn`
-`FastAPI` `MySQL` `Docker` `Git` `Linux/Bash` `Power BI` `Hadoop`
-
----
-
-**Connect**
-
-· [LinkedIn](https://www.linkedin.com/in/anjali-pranav-3721a7248/)
