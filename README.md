@@ -9,7 +9,7 @@ building ml systems that hold up outside a notebook-adversarial robustness, infe
 </p>
 
 <p align="center">
-currently learning: temporal gnns under attack, distributed systems, compiler design, and llm/ml inference.
+currently learning/working on: temporal gnns under attack, distributed systems, compiler design, and llm/ml inference.
 </p>
 
 <p align="center">
