@@ -3,7 +3,7 @@
 <p align="center">
 data science & engineering undergrad @ mit manipal
 </p>
-<p>
+<p align="center">
 research intern @hanze university of applied sciences, netherlands 
 </p>
 <p align="center">
