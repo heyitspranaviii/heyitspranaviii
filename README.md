@@ -2,9 +2,10 @@
 
 <p align="center">
 data science & engineering undergrad @ mit manipal
+</p>
+<p>
 research intern @hanze university of applied sciences, netherlands 
 </p>
-
 <p align="center">
 building ml systems that hold up outside a notebook-adversarial robustness, inference, and the infrastructure underneath both.
 </p>
