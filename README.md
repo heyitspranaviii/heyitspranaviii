@@ -4,7 +4,7 @@
 data science & engineering undergrad @ mit manipal
 </p>
 <p align = "center">
-general secretary at the acm manipal student chapter
+general secretary @ acm manipal student chapter
 <p align="center">
 research intern @hanze university of applied sciences, netherlands 
 </p>
