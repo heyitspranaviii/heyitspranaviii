@@ -1,4 +1,4 @@
-<h1 align="center">anjali ( heyitspranaviii )</h1>
+<h1 align="center">anjali pranav</h1>
 
 <p align="center">
 data science & engineering undergrad @ mit manipal
